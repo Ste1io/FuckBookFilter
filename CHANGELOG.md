@@ -21,12 +21,16 @@
 - [x] Included list of word matches with each flagged entry so you know what the fuck you said wrong that time.
 
 - [x] Matched entries are printed in chronological order in the log.
-v0.0.1.4 (May 12, 2018)
+
+## v0.0.1.4 (May 12, 2018)
 
 - [x] Fixed some bugs causing search results to overlap previous ones.
 
+## v0.0.1.4 (May 13, 2018)
+
 - [x] Jazzed up the UI just a smidgen.
-v0.0.2.0 (May 13, 2018)
+
+## v0.0.2.0 (May 13, 2018)
 
 - [x] Nothing major, just yanked out stale notes and comments that were still hanging around from when I threw all this together.
 
