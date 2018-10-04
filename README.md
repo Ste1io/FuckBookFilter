@@ -22,4 +22,4 @@ Find offending posts and comments (yes, comments can be reported also) on Facebo
 
 ## Who made this
 
-[Stelio Kontos](http://fb.com/stelioio). Who else?
+[Stelio Kontos](http://fb.com/iStelio). Who else?
